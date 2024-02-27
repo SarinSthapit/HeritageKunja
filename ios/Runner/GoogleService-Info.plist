@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>569259251331-8iomomlqrojjhqgjv8ts8to8o6l1a07n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.569259251331-8iomomlqrojjhqgjv8ts8to8o6l1a07n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1-OpfuElNxW_H4IcJ0hc29QItu9mFk6g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>569259251331</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.heritagekunjaApp</string>
+	<key>PROJECT_ID</key>
+	<string>heritagekunja</string>
+	<key>STORAGE_BUCKET</key>
+	<string>heritagekunja.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:569259251331:ios:cf6b5794dd0b0f8b076db6</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "569259251331",
+    "project_id": "heritagekunja",
+    "storage_bucket": "heritagekunja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569259251331:android:400f94fa563c0540076db6",
+        "android_client_info": {
+          "package_name": "com.heritagekunja.HeritageKunja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569259251331-n97b9odk6c34lf8f6mru87eflj8ko4ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgpFD60JVlZtPiQTvnAQRZRAwbFQbZ2nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569259251331-n97b9odk6c34lf8f6mru87eflj8ko4ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569259251331-8iomomlqrojjhqgjv8ts8to8o6l1a07n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.heritagekunjaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
